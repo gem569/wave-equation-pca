@@ -11,5 +11,9 @@ This project applies **Principal Component Analysis (PCA)** to numerical solutio
 ## Why it matters  
 Wave simulations produce high-dimensional data. PCA helps compress this data and reveal the key structures underlying the system’s behaviour.
 
-## Files  
-- `PCA_WE.ipynb` – main notebook with implementation and explanations  
+## Repository Structure
+
+```text
+wave-equation-pca/
+│── PCA_WE.ipynb
+│── README.md
